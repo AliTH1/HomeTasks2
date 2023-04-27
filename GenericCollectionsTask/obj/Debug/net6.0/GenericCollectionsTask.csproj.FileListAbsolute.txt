@@ -1,0 +1,15 @@
+C:\Users\alita\source\repos\GenericCollectionsTask\bin\Debug\net6.0\GenericCollectionsTask.exe
+C:\Users\alita\source\repos\GenericCollectionsTask\bin\Debug\net6.0\GenericCollectionsTask.deps.json
+C:\Users\alita\source\repos\GenericCollectionsTask\bin\Debug\net6.0\GenericCollectionsTask.runtimeconfig.json
+C:\Users\alita\source\repos\GenericCollectionsTask\bin\Debug\net6.0\GenericCollectionsTask.dll
+C:\Users\alita\source\repos\GenericCollectionsTask\bin\Debug\net6.0\GenericCollectionsTask.pdb
+C:\Users\alita\source\repos\GenericCollectionsTask\obj\Debug\net6.0\GenericCollectionsTask.csproj.AssemblyReference.cache
+C:\Users\alita\source\repos\GenericCollectionsTask\obj\Debug\net6.0\GenericCollectionsTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alita\source\repos\GenericCollectionsTask\obj\Debug\net6.0\GenericCollectionsTask.AssemblyInfoInputs.cache
+C:\Users\alita\source\repos\GenericCollectionsTask\obj\Debug\net6.0\GenericCollectionsTask.AssemblyInfo.cs
+C:\Users\alita\source\repos\GenericCollectionsTask\obj\Debug\net6.0\GenericCollectionsTask.csproj.CoreCompileInputs.cache
+C:\Users\alita\source\repos\GenericCollectionsTask\obj\Debug\net6.0\GenericCollectionsTask.dll
+C:\Users\alita\source\repos\GenericCollectionsTask\obj\Debug\net6.0\refint\GenericCollectionsTask.dll
+C:\Users\alita\source\repos\GenericCollectionsTask\obj\Debug\net6.0\GenericCollectionsTask.pdb
+C:\Users\alita\source\repos\GenericCollectionsTask\obj\Debug\net6.0\GenericCollectionsTask.genruntimeconfig.cache
+C:\Users\alita\source\repos\GenericCollectionsTask\obj\Debug\net6.0\ref\GenericCollectionsTask.dll
