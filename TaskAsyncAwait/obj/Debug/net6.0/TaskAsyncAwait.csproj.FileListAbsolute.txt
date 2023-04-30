@@ -1,0 +1,15 @@
+C:\Users\alita\source\repos\TaskAsyncAwait\bin\Debug\net6.0\TaskAsyncAwait.exe
+C:\Users\alita\source\repos\TaskAsyncAwait\bin\Debug\net6.0\TaskAsyncAwait.deps.json
+C:\Users\alita\source\repos\TaskAsyncAwait\bin\Debug\net6.0\TaskAsyncAwait.runtimeconfig.json
+C:\Users\alita\source\repos\TaskAsyncAwait\bin\Debug\net6.0\TaskAsyncAwait.dll
+C:\Users\alita\source\repos\TaskAsyncAwait\bin\Debug\net6.0\TaskAsyncAwait.pdb
+C:\Users\alita\source\repos\TaskAsyncAwait\obj\Debug\net6.0\TaskAsyncAwait.csproj.AssemblyReference.cache
+C:\Users\alita\source\repos\TaskAsyncAwait\obj\Debug\net6.0\TaskAsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alita\source\repos\TaskAsyncAwait\obj\Debug\net6.0\TaskAsyncAwait.AssemblyInfoInputs.cache
+C:\Users\alita\source\repos\TaskAsyncAwait\obj\Debug\net6.0\TaskAsyncAwait.AssemblyInfo.cs
+C:\Users\alita\source\repos\TaskAsyncAwait\obj\Debug\net6.0\TaskAsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\alita\source\repos\TaskAsyncAwait\obj\Debug\net6.0\TaskAsyncAwait.dll
+C:\Users\alita\source\repos\TaskAsyncAwait\obj\Debug\net6.0\refint\TaskAsyncAwait.dll
+C:\Users\alita\source\repos\TaskAsyncAwait\obj\Debug\net6.0\TaskAsyncAwait.pdb
+C:\Users\alita\source\repos\TaskAsyncAwait\obj\Debug\net6.0\TaskAsyncAwait.genruntimeconfig.cache
+C:\Users\alita\source\repos\TaskAsyncAwait\obj\Debug\net6.0\ref\TaskAsyncAwait.dll
