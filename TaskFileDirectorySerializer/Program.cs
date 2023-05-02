@@ -10,15 +10,17 @@ if (!File.Exists(path + @"\\Data\\jsonData.json"))
     File.Create(path + @"\\Data\\jsonData.json");
 }
 
+if (!File.Exists(@"C:\\Users\\alita\\source\\repos\\TaskFileDirectorySerializer\\Models\\CustomObject.cs"))
+{
+    File.Create(@"C:\\Users\\alita\\source\\repos\\TaskFileDirectorySerializer\\Models\\CustomObject.cs");
+}
 
 string jsonData = @"C:\\Users\\alita\\source\\repos\\TaskFileDirectorySerializer\\Data\\jsonData.json";
-string url = @"https://jsonplaceholder.typicode.com/posts";
+string url = "https://jsonplaceholder.typicode.com/posts";
 HttpClient httpClient = new HttpClient();
 string result = await httpClient.GetStringAsync(url);
-string jsonSerialized = JsonConvert.SerializeObject(result);
-
 
 using (StreamWriter sw = new(jsonData))
 {
-    sw.WriteLine(jsonSerialized);
+    sw.WriteLine(result);
 }
