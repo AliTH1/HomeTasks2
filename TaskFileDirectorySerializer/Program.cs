@@ -15,12 +15,14 @@ if (!File.Exists(@"C:\\Users\\alita\\source\\repos\\TaskFileDirectorySerializer\
     File.Create(@"C:\\Users\\alita\\source\\repos\\TaskFileDirectorySerializer\\Models\\CustomObject.cs");
 }
 
+
+HttpClient httpClient = new HttpClient();
 string jsonData = @"C:\\Users\\alita\\source\\repos\\TaskFileDirectorySerializer\\Data\\jsonData.json";
 string url = "https://jsonplaceholder.typicode.com/posts";
-HttpClient httpClient = new HttpClient();
 string result = await httpClient.GetStringAsync(url);
+List<CustomObject> customObjects = JsonConvert.DeserializeObject<List<CustomObject>>(result);
 
 using (StreamWriter sw = new(jsonData))
 {
-    sw.WriteLine(result);
+    sw.WriteLine(JsonConvert.SerializeObject(customObjects));
 }
