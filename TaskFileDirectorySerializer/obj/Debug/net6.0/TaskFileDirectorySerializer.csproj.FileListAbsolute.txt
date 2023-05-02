@@ -1,0 +1,17 @@
+C:\Users\alita\source\repos\TaskFileDirectorySerializer\bin\Debug\net6.0\TaskFileDirectorySerializer.exe
+C:\Users\alita\source\repos\TaskFileDirectorySerializer\bin\Debug\net6.0\TaskFileDirectorySerializer.deps.json
+C:\Users\alita\source\repos\TaskFileDirectorySerializer\bin\Debug\net6.0\TaskFileDirectorySerializer.runtimeconfig.json
+C:\Users\alita\source\repos\TaskFileDirectorySerializer\bin\Debug\net6.0\TaskFileDirectorySerializer.dll
+C:\Users\alita\source\repos\TaskFileDirectorySerializer\bin\Debug\net6.0\TaskFileDirectorySerializer.pdb
+C:\Users\alita\source\repos\TaskFileDirectorySerializer\obj\Debug\net6.0\TaskFileDirectorySerializer.csproj.AssemblyReference.cache
+C:\Users\alita\source\repos\TaskFileDirectorySerializer\obj\Debug\net6.0\TaskFileDirectorySerializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alita\source\repos\TaskFileDirectorySerializer\obj\Debug\net6.0\TaskFileDirectorySerializer.AssemblyInfoInputs.cache
+C:\Users\alita\source\repos\TaskFileDirectorySerializer\obj\Debug\net6.0\TaskFileDirectorySerializer.AssemblyInfo.cs
+C:\Users\alita\source\repos\TaskFileDirectorySerializer\obj\Debug\net6.0\TaskFileDirectorySerializer.csproj.CoreCompileInputs.cache
+C:\Users\alita\source\repos\TaskFileDirectorySerializer\obj\Debug\net6.0\TaskFileDirectorySerializer.dll
+C:\Users\alita\source\repos\TaskFileDirectorySerializer\obj\Debug\net6.0\refint\TaskFileDirectorySerializer.dll
+C:\Users\alita\source\repos\TaskFileDirectorySerializer\obj\Debug\net6.0\TaskFileDirectorySerializer.pdb
+C:\Users\alita\source\repos\TaskFileDirectorySerializer\obj\Debug\net6.0\TaskFileDirectorySerializer.genruntimeconfig.cache
+C:\Users\alita\source\repos\TaskFileDirectorySerializer\obj\Debug\net6.0\ref\TaskFileDirectorySerializer.dll
+C:\Users\alita\source\repos\TaskFileDirectorySerializer\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\alita\source\repos\TaskFileDirectorySerializer\obj\Debug\net6.0\TaskFileDirectorySerializer.csproj.CopyComplete

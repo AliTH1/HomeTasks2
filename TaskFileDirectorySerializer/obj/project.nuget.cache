@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h7xYI3P+jt00nbLlqX7yDXV+1U8hBxtdebZhiRIBszESy5OrotnSxTF1OvTR7m0RCv/Izk8Hg50flRMWtOjjXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alita\\source\\repos\\TaskFileDirectorySerializer\\TaskFileDirectorySerializer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alita\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
