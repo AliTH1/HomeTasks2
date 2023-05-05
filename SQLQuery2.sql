@@ -52,23 +52,28 @@ CROSS JOIN Color_Name
 
 
 
---CREATE TABLE Products(
---Id INT PRIMARY KEY IDENTITY,
---Name NVARCHAR(20),
---Price FLOAT CHECK(Price >= 0 AND Price <= 100)
---)
+CREATE TABLE Products(
+Id INT PRIMARY KEY IDENTITY,
+Name NVARCHAR(20),
+Price FLOAT CHECK(Price >= 0 AND Price <= 100)
+)
 
---CREATE TABLE CategoriesProduct(
---Id INT PRIMARY KEY IDENTITY,
---Name NVARCHAR(20),
---PriceCategories INT CHECK(PriceCategories >= 0 AND PriceCategories <= 100)
---)
+CREATE TABLE CategoriesProduct(
+Id INT PRIMARY KEY IDENTITY,
+Name NVARCHAR(20),
+MinPriceCategories INT CHECK(MinPriceCategories >= 0 AND MinPriceCategories <= 100),
+MaxPriceCategories INT CHECK(MaxPriceCategories >= 0 AND MaxPriceCategories <= 100)
+)
+
+INSERT INTO Products(Name, Price)
+VALUES ('Eggs', 1), ('Yogurt', 3), ('Apple', 6), ('Cherry', 8)
+
+INSERT INTO CategoriesProduct(Name, MinPriceCategories, MaxPriceCategories)
+VALUES('MilkProd', 1, 5), ('FruitsProd', 5, 10)
 
 
---INSERT INTO Products(Name, Price)
---VALUES('Eggs', 1.5), ('Lays', 5), ('Bread', 3)
-
---INSERT INTO CategoriesProduct(Name, PriceCategories)
---VALUES('MilkProd', ),
+SELECT * FROM Products AS p
+INNER JOIN CategoriesProduct AS cp
+ON p.price BETWEEN cp.MinPriceCategories AND cp.MaxPriceCategories
 
 
